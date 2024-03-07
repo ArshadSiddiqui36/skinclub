@@ -334,7 +334,7 @@ main {
       padding: 8px 15px ;
       /* width: 272px; */
       /* width: 100px; */
-      width: clamp(100px, 90%, 272px);
+      width: clamp(100px, 80%, 272px);
       height: 35px;
       background: transparent;
       font-size: 10px;

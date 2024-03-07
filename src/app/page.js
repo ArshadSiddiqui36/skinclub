@@ -258,7 +258,7 @@ export default function Home() {
                   </tbody>
                   <tfoot>
                     <tr>
-                      <td colspan="5">
+                      <td colSpan="5">
                         <a href="#" className="viewMoreButton">
                           View more
                         </a>
